@@ -1,2 +1,5 @@
-# TheWatsonxPrototype
-Experimental prototype showcasing programmatic watsonx usage for the project AI Islands.
+Application:TheWatsonxPrototype
+
+Description:Experimental prototype showcasing programmatic watsonx for the project AI Islands.
+
+Author: FWDM7
